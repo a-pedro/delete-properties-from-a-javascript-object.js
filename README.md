@@ -1,0 +1,1 @@
+# delete-properties-from-a-javascript-object.js
